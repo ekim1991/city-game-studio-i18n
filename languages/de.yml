@@ -39,7 +39,7 @@ de:
   BUTTON_SELL: Verkaufen
   BUTTON_RENT: Mieten
   BUTTON_CONFIRM: Bestätigen
-  BUTTON_BANKRUPTCY: Bankcrupcy
+  BUTTON_BANKRUPTCY: Bankrott
   BUTTON_RESTORE: Wiederherstellen
   BUTTON_DELETE: Löschen
   BUTTON_DELETE_ALL: Alle löschen
@@ -51,7 +51,7 @@ de:
   BUTTON_FEEDBACK: Feedback
   DROPDOWN_LANGUAGE: Sprache
   BUTTON_CRACK_GAME: Ein Spiel knacken
-  BUTTON_FORCE_STUDIO_SELL: Force Studio Verkauf
+  BUTTON_FORCE_STUDIO_SELL: Erzwinge Studio Verkauf
   BUTTON_SPY: Einen Konkurrenten ausspionieren
   BUTTON_HIRE_THEIR_EMPLOYE: Stellen Sie ihren Mitarbeiter ein
   BUTTON_SELECT: Wählen
@@ -62,7 +62,7 @@ de:
   LABEL_DOOR: Tür
   LABEL_COGS: Herstellungskosten der verkauften Produkte
   LABEL_TAXES: Steuern
-  LABEL_FIXED_COSTS: Fixe Kosten
+  LABEL_FIXED_COSTS: Fixkosten
   LABEL_OVERVIEW: Übersicht
   LABEL_LOW_CONFIGURATION: Niedrige Konfiguration
   LABEL_USE_MOUSE_TO_MOVE_SCREEN: >
@@ -292,7 +292,7 @@ de:
 
     Es muss gesagt werden, dass sie vor nicht allzu langer Zeit ein ähnliches Spiel veröffentlicht haben.
   LABEL_GAME_ANNOUNCED_TITLE: "%s wurde bekannt gegeben"
-  LABEL_TRENDING: Trending
+  LABEL_TRENDING: Im Trend
   LABEL_CREATOR: Entwicklung
   LABEL_PRODUCER: Produzent
   LABEL_COMMUNITY_MANAGER: Community-Manager
@@ -302,17 +302,17 @@ de:
   LABEL_ATTENDANCE: Teilnahme
   LABEL_NONE: Keine
   LABEL_NO_BUILDING: Kein Gebäude verfügbar
-  LABEL_NO_CONVENTION: Keine Convention geplant
-  LABEL_CONVENTION_LAST_DATE: Letzte Convention
+  LABEL_NO_CONVENTION: Keine Messe geplant
+  LABEL_CONVENTION_LAST_DATE: Letzte Messe
   LABEL_DATE: Datum
   LABEL_STANDSIZE: Standgröße
-  LABEL_CONVENTION_NAME: Name der Convention
+  LABEL_CONVENTION_NAME: Name der Messe
   LABEL_ATTEND: Besuchen
   LABEL_ORGANIZE: Organisieren
   LABEL_INFORMATIONS: Details
   LABEL_GAME: Spiel
   LABEL_GAMEPORT: Ein Spiel portieren
-  LABEL_CONVENTION: Ausstellungs Center
+  LABEL_CONVENTION: Messe Center
   LABEL_LAND_VALUE: Land Wert
   LABEL_SURFACE: Oberfläche
   LABEL_HYPE: Hype
@@ -357,7 +357,7 @@ de:
   LABEL_GAME_FINISHED: Herzlichen Glückwunsch, du hast City Game Studio abgeschlossen
   LABEL_PLANNING: Planung
   LABEL_NO_PLATFORM_AVAILABLE: >
-    Das Spiel wurde bereits für jede einzelne Platform verfügbar gemacht!
+    Das Spiel wurde bereits für jede einzelne Plattform verfügbar gemacht!
   LABEL_PLATFORM: Plattform
   LABEL_PLAYER_NAME: Spielername
   LABEL_PROFITS: Umsatz
@@ -371,7 +371,7 @@ de:
   LABEL_SOUNDFX: Sound FX
   LABEL_SQUARE_FOOTAGE: Fläche
   LABEL_STAFF: Mitarbeiter
-  LABEL_STORY: Story
+  LABEL_STORY: Geschichte
   LABEL_STUDIO: Studio
   LABEL_TARGETTED_AUDIENCE: Zielgruppe
   LABEL_THEME: Thema
@@ -955,7 +955,7 @@ de:
 
   # Tooltips
   TOOLTIP_CONVENTION_LIST: |
-    Teilnahme an Kongressen
+    Teilnahme an Messen
   TOOLTIP_FORCE_STUDIO: |
     Du musst das Studio auswählen, dessen Verkauf du erzwingen möchtest.
   TOOLTIP_CRACK_GAME: |
@@ -1068,7 +1068,7 @@ de:
   STUDIO_CUSTOMIZE: Renovieren Sie Ihre Studios
   FURNITURES_SERVERS_BUY: Server kaufen
   GAME_ONLINE: Online-Spiele veröffentlichen
-  DIGITAL_STORE: Dematerialisiertes Lager
+  DIGITAL_STORE: Digitales Lager
   POSTMORTEM: Spielbericht
   NEW_GAME: Neues Spiel
   TARGETTED_AUDIENCE: Zielgerichtete Zielgruppe
