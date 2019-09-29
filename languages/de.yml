@@ -63,7 +63,7 @@ de:
   BUTTON_DETAILS: Einzelheiten
   BUTTON_CHARTS: Diagramm
   BUTTON_CREATE: Erstellen
-  BUTTON_GRID: Gitter anzeigen
+  BUTTON_GRID: Raster anzeigen
   BUTTON_EDIT_LOGO: Logo bearbeiten
   BUTTON_BUILD: Bauen
 
@@ -87,7 +87,7 @@ de:
     Um zu hacken, klicken Sie auf'Start'.
   LABEL_OPEN_CONSOLE: Klicken Sie auf'Start', um zu hacken
   LABEL_DOWNLOADING: Herunterladen
-  LABEL_TARGET_LOCALIZING: Einbruch erkannt
+  LABEL_TARGET_LOCALIZING: Angriff erkannt
   LABEL_CONNECTION_LOST: Verbindung unterbrochen
   LABEL_ACCESS_GRANTED: Zugriff gewährt
   LABEL_CLICK_FOR_ACTION: Klicken Sie hier, um das Menü zu öffnen.
